@@ -1,0 +1,18 @@
+{
+    "args": {
+        "key1": "value1",
+        "key2": [
+            "value2",
+            "value3"
+        ]
+    },
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.25.1",
+        "X-Amzn-Trace-Id": "Root=1-6654794e-1482b6490ed157976c28b42c"
+    },
+    "origin": "86.159.95.134",
+    "url": "https://httpbin.org/get?key1=value1&key2=value2&key2=value3"
+}
